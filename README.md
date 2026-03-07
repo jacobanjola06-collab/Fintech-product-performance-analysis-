@@ -6,12 +6,12 @@ This project analyzes behavioral and transactional data from 48,723 customers of
   As fintech platforms scale, one of the major challenges they face is identifying sustainable drivers of revenue growth while maintaining strong customer engagement and retention. Growth alone is not enough, companies must understand which products drive usage, which customers create the most long-term value, and which acquisition strategies attract high-value user.  This analysis aims to address that challenge by examining the relationship between revenue performance, product adoption, and customer loyalty. By analyzing how customers interact with different financial products and how their behaviors translate into revenue and long-term value, the analysis seeks to uncover patterns that can help the company better understand its most valuable growth opportunities.
 
 **To answer this business problem, the analysis focuses on three key areas:**
-# Revenue Performance : 
-Examines total revenue, average customer lifetime value (CLV), monthly revenue trends, revenue growth patterns, revenue concentration among top customers, and how revenue varies across customer segments, acquisition channels, and locations.
-# Product Performance: 
-Analyzes product adoption, product-level engagement, the relationship between product ownership and churn behavior, and how product depth influences customer activity on the platform.
-# Customer Loyalty: 
-Explores customer segments, transaction frequency, product depth, and customer tenure to understand patterns that influence long-term engagement and retention.
+**Revenue Performance :** Examines total revenue, average customer lifetime value (CLV), monthly revenue trends, revenue growth patterns, revenue concentration among top customers, and how revenue varies across customer segments, acquisition channels, and locations.
+
+**Product Performance:** Analyzes product adoption, product-level engagement, the relationship between product ownership and churn behavior, and how product depth influences customer activity on the platform.
+
+**Customer Loyalty:** Explores customer segments, transaction frequency, product depth, and customer tenure to understand patterns that influence long-term engagement and retention.
+
 ## EXECUTIVE SUMMARY 	
 The analysis reveals several key patterns in revenue performance, product adoption, and customer value that influence the platform’s long-term revenue potential. Revenue growth shows noticeable volatility throughout the year. Strong month-over-month increases were observed in June (28%) and August (30%), but these gains were followed by declines in July (22%) and September (24%), indicating that revenue performance is not yet consistently stable.
  From a product perspective, Savings Accounts and Credit Cards are the most widely adopted products, owned by 78% and 62% of customers, making them the primary entry points into the platform. However, Personal Loans and Insurance Products generate the highest average transaction value per user, suggesting that these products contribute more significantly to customer spending activity.
