@@ -4,6 +4,7 @@ This project analyzes behavioral and transactional data from 48,723 customers of
 
   
   As fintech platforms scale, one of the major challenges they face is identifying sustainable drivers of revenue growth while maintaining strong customer engagement and retention. Growth alone is not enough, companies must understand which products drive usage, which customers create the most long-term value, and which acquisition strategies attract high-value user.  This analysis aims to address that challenge by examining the relationship between revenue performance, product adoption, and customer loyalty. By analyzing how customers interact with different financial products and how their behaviors translate into revenue and long-term value, the analysis seeks to uncover patterns that can help the company better understand its most valuable growth opportunities.
+
 **To answer this business problem, the analysis focuses on three key areas:**
 # Revenue Performance : 
 Examines total revenue, average customer lifetime value (CLV), monthly revenue trends, revenue growth patterns, revenue concentration among top customers, and how revenue varies across customer segments, acquisition channels, and locations.
