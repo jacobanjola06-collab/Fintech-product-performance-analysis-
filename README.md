@@ -58,3 +58,29 @@ Developing targeted loyalty programs, personalized financial offers, and exclusi
 With the top 10% of customers contributing 77.5% of total revenue, the platform faces a concentration risk. Improving engagement among regular and medium transaction frequency customers, who represent the largest portion of the user base, can help broaden the revenue base and create more stable long-term growth.
 4. Expand product depth to increase engagement and lifetime value
 Customers with multiple products demonstrate higher engagement levels, supporting the effectiveness of a multi-product strategy. Encouraging customers to adopt two or more financial products can deepen platform usage and increase both transaction activity and long-term customer value.
+
+## Methodology
+
+The analysis followed a structured workflow:
+
+- Data  preparation using SQL
+- Aggregation of key performance metrics
+- Exploratory analysis to identify revenue patterns
+- Visualization of insights to support business interpretation
+
+  - **SQL** –  metric calculation
+- **Power BI** – visualization of analytical insights
+
+## Key Takeaways
+
+1.Revenue growth is volatile, with strong spikes followed by sharp declines, indicating unstable month-to-month revenue momentum.
+
+2.Revenue is highly concentrated, with the top 10% of customers generating the majority of total revenue and key regions dominating financial activity.
+
+3.Basic financial products drive adoption, while advanced products generate higher engagement once adopted.
+
+4.More products do not necessarily increase usage, as customers with fewer products sometimes show higher transaction activity.
+
+5.A small segment of power customers generates the highest lifetime value, while regular customers form the core revenue base.
+
+6.The platform has strong long-term retention, with a large share of customers remaining active for over nine years.
