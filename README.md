@@ -13,6 +13,10 @@ This project analyzes behavioral and transactional data from 48,723 customers of
 
 **Customer Loyalty:** Explores customer segments, transaction frequency, product depth, and customer tenure to understand patterns that influence long-term engagement and retention.
 
+## Data Model
+The analysis uses the following data structure.
+![image alt](https://github.com/jacobanjola06-collab/Fintech-product-performance-analysis-/blob/8e8b2fa1d685a6e6393f2653952cf655e06c43fc/Screenshot%202026-03-08%20160824.png)
+
 ## EXECUTIVE SUMMARY 	
 The analysis reveals several key patterns in revenue performance, product adoption, and customer value that influence the platform’s long-term revenue potential. Revenue growth shows noticeable volatility throughout the year. Strong month-over-month increases were observed in June (28%) and August (30%), but these gains were followed by declines in July (22%) and September (24%), indicating that revenue performance is not yet consistently stable.
  From a product perspective, Savings Accounts and Credit Cards are the most widely adopted products, owned by 78% and 62% of customers, making them the primary entry points into the platform. However, Personal Loans and Insurance Products generate the highest average transaction value per user, suggesting that these products contribute more significantly to customer spending activity.
