@@ -20,6 +20,7 @@ Customer segmentation analysis also shows that Power Customers, despite represen
 ## Insight DeepDive 
 
 ### Revenue Trends & Risk
+![image alt](https://github.com/jacobanjola06-collab/Fintech-product-performance-analysis-/blob/97d18c9a38be79145cf34c529231bac65db38960/Screenshot%202026-03-08%20145048.png)
 
 **•	Revenue Growth Trend (Month-over-Month)**: Revenue performance across the year shows noticeable volatility rather than consistent growth. The company experienced strong growth in June (+28%) and August (+30%), indicating periods of high customer activity and transaction volume. However, these gains were quickly followed by declines in July (-22%) and September (-24%), suggesting that revenue spikes were not sustained over time. This pattern indicates that while the company is capable of generating strong short-term growth, revenue momentum is not yet stable month-to-month. 
 
