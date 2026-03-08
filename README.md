@@ -1,4 +1,4 @@
-# Fintech-product-performance-analysis-
+# Fintech-product-performance-analysis
 # Project Background
 This project analyzes behavioral and transactional data from 48,723 customers of a Colombian fintech company, collected over a 12-month period. The dataset contains 3,159,157 individual financial   transactions and includes detailed information about customer demographics, product ownership, transaction activity, acquisition channels, and churn behavior. As the platform expands, understanding how customers adopt financial products, generate revenue, and remain engaged over time becomes increasingly important.
 
@@ -20,12 +20,16 @@ Customer segmentation analysis also shows that Power Customers, despite represen
 ## Insight DeepDive 
 
 **Revenue Trends & Risk**
+
 •	Revenue Growth Trend (Month-over-Month): Revenue performance across the year shows noticeable volatility rather than consistent growth. The company experienced strong growth in June (+28%) and August (+30%), indicating periods of high customer activity and transaction volume. However, these gains were quickly followed by declines in July (-22%) and September (-24%), suggesting that revenue spikes were not sustained over time. This pattern indicates that while the company is capable of generating strong short-term growth, revenue momentum is not yet stable month-to-month. 
+
 •	Revenue Concentration: Revenue distribution across the fintech shows a high level of concentration among top customers. The top 10% of customers contribute approximately 77.49% of total revenue, indicating that a relatively small portion of the customer base drives the majority of financial activity. Geographically, revenue is also heavily concentrated in a few key regions. Cundinamarca alone generates 4.31 trillion in revenue, far exceeding other locations and acting as the company’s primary revenue hub. This is followed by Antioquia (1.54 trillion) and Valle del Cauca (1.22 trillion), which also contribute significant portions of total platform revenue.                                                                                                                                                                                                                                                                                                                                                                     While these regions generate the highest transaction volume, several smaller regions demonstrate strong customer value despite lower overall revenue. For example, Tolima shows one of the highest average CLV values (1.99B) and Magdalena averages 1.90B CLV, indicating that customers in these regions may generate strong long-term value even if their current revenue contribution is smaller.
 **Product Performance**
 
 •	product Adoption: Savings Accounts and Credit Cards serve as the primary entry points into the fintech product, with adoption rates of 78.93% and 62.52% respectively. Other financial products show lower adoption levels, including Investment Accounts (42.56%), Personal Loans (31.61%), and Insurance Products (21.21%).This indicates that while the platform successfully attracts customers through basic financial services, more advanced financial products are adopted by a smaller share of the user base.
+
 •	Product Level Engagements : Despite lower adoption, some products drive higher transaction activity per user. Personal Loans generate the highest engagement, averaging 67.05 transactions per user, followed by Insurance Products (65.29) and Investment Accounts (64.85). Savings Accounts average 64.78 transactions, while Credit Cards record the lowest engagement at 62.97 transactions per user .This suggests that products with lower adoption may still contribute strongly to customer financial activity once adopted.  
+
 •	Product Depth And Engagement: Customer engagement varies depending on the number of products owned. Customers with one product show the highest activity, averaging 75.37 transactions, while customers with four products also maintain strong engagement at 70.23 transactions. Other groups show lower activity levels, including two products (58.04), three products (64.36), and five products (58.35). This pattern indicates that engagement does not increase linearly with the number of products owned, suggesting that product adoption alone does not always translate into higher usage.
 **Customer Loyalty & Engagement insight**  
 
