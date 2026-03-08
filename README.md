@@ -68,8 +68,9 @@ The analysis followed a structured workflow:
 - Exploratory analysis to identify revenue patterns
 - Visualization of insights to support business interpretation
 
-  - **SQL** –  metric calculation
-- **Power BI** – visualization of analytical insights
+## Tools Used
+**SQL** –  metric calculation
+**Power BI** – visualization of analytical insights
 
 ## Key Takeaways
 
