@@ -15,6 +15,7 @@ This project analyzes behavioral and transactional data from 48,723 customers of
 
 ## Data Model
 The analysis uses the following data structure.
+
 ![image alt](https://github.com/jacobanjola06-collab/Fintech-product-performance-analysis-/blob/8e8b2fa1d685a6e6393f2653952cf655e06c43fc/Screenshot%202026-03-08%20160824.png)
 
 ## EXECUTIVE SUMMARY 	
