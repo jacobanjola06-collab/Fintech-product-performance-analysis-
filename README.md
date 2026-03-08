@@ -1,25 +1,21 @@
 # Fintech-product-performance-analysis
 # Project Background
-This project analyzes behavioral and transactional data from 48,723 customers of a Colombian fintech company, collected over a 12-month period. The dataset contains 3,159,157 individual financial   transactions and includes detailed information about customer demographics, product ownership, transaction activity, acquisition channels, and churn behavior. As the platform expands, understanding how customers adopt financial products, generate revenue, and remain engaged over time becomes increasingly important.
-
-  
-  As fintech platforms scale, one of the major challenges they face is identifying sustainable drivers of revenue growth while maintaining strong customer engagement and retention. Growth alone is not enough, companies must understand which products drive usage, which customers create the most long-term value, and which acquisition strategies attract high-value user.  This analysis aims to address that challenge by examining the relationship between revenue performance, product adoption, and customer loyalty. By analyzing how customers interact with different financial products and how their behaviors translate into revenue and long-term value, the analysis seeks to uncover patterns that can help the company better understand its most valuable growth opportunities.
+This project analyzes behavioral and transactional data from 48,723 customers of a Colombian fintech company, collected over a 12-month period. The dataset contains 3,159,157 individual financial   transactions . As fintech platforms scale, one of the major challenges they face is identifying sustainable drivers of revenue growth while maintaining strong customer engagement and retention. Growth alone is not enough, companies must understand which products drive usage, which customers create the most long-term value, and which acquisition strategies attract high-value user.  This analysis aims to address that challenge by examining the relationship between revenue performance, product adoption, and customer loyalty, By analyzing how customers interact with different financial products .
 
 **To answer this business problem, the analysis focuses on three key areas:**
 
-**Revenue Performance :** Examines total revenue, average customer lifetime value (CLV), monthly revenue trends, revenue growth patterns, revenue concentration among top customers, and how revenue varies across customer segments, acquisition channels, and locations.
+**Revenue Performance :** Examines total revenue, average customer lifetime value (CLV), monthly revenue trends, revenue growth patterns, revenue concentration among top customers.
 
 **Product Performance:** Analyzes product adoption, product-level engagement, the relationship between product ownership and churn behavior, and how product depth influences customer activity on the platform.
 
-**Customer Loyalty:** Explores customer segments, transaction frequency, product depth, and customer tenure to understand patterns that influence long-term engagement and retention.
-
+**Customer Loyalty:** Explores customer segments, transaction frequency, product depth, and customer tenure.
 ## Data Model
 The analysis uses the following data structure.
 
 ![image alt](https://github.com/jacobanjola06-collab/Fintech-product-performance-analysis-/blob/8e8b2fa1d685a6e6393f2653952cf655e06c43fc/Screenshot%202026-03-08%20160824.png)
 
 ## EXECUTIVE SUMMARY 	
-The analysis reveals several key patterns in revenue performance, product adoption, and customer value that influence the platform’s long-term revenue potential. Revenue growth shows noticeable volatility throughout the year. Strong month-over-month increases were observed in June (28%) and August (30%), but these gains were followed by declines in July (22%) and September (24%), indicating that revenue performance is not yet consistently stable.
+After peaking Revenue growth shows noticeable volatility throughout the year. Strong month-over-month increases were observed in June (28%) and August (30%), but these gains were followed by declines in July (22%) and September (24%), indicating that revenue performance is not yet consistently stable.
  From a product perspective, Savings Accounts and Credit Cards are the most widely adopted products, owned by 78% and 62% of customers, making them the primary entry points into the platform. However, Personal Loans and Insurance Products generate the highest average transaction value per user, suggesting that these products contribute more significantly to customer spending activity.
 Customer segmentation analysis also shows that Power Customers, despite representing the smallest share of the customer base, generate the highest customer lifetime value (CLV). This indicates that a relatively small group of customers contributes disproportionately to long-term revenue potential. Overall, the results suggest that improving revenue stability, increasing adoption of higher-value products, and strengthening engagement among high-value customer segments may provide opportunities for more sustainable growth.
 ## Insight DeepDive 
@@ -40,7 +36,7 @@ Customer segmentation analysis also shows that Power Customers, despite represen
 
 **•	Product Depth And Engagement**: Customer engagement varies depending on the number of products owned. Customers with one product show the highest activity, averaging 75.37 transactions, while customers with four products also maintain strong engagement at 70.23 transactions. Other groups show lower activity levels, including two products (58.04), three products (64.36), and five products (58.35). This pattern indicates that engagement does not increase linearly with the number of products owned, suggesting that product adoption alone does not always translate into higher usage.
 
-### Customer Loyalty & Engagement insight
+### Customer Loyalty & Engagement 
 
 Customer loyalty patterns show that a relatively small group of customers contributes a disproportionately large share of long-term value.
 
